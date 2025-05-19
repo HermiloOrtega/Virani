@@ -38,7 +38,7 @@ The goal was to create a polished digital identity for VIRANI to reflect its lux
 | **Hosting**               | ![Self-hosted](https://img.shields.io/badge/Self--Hosted-000000?style=for-the-badge&logo=serverfault&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) |
 | **Design Tools**          | ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) |
 | **CRM** | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white) |
-| **APIs & Integrations**   | ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white) |
+| **APIs & Integrations**   | ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white) ![Google reCAPTCHA](https://img.shields.io/badge/Google%20reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white) ![MLS Listings API](https://img.shields.io/badge/MLS%20Listings%20API-000000?style=for-the-badge&logo=databricks&logoColor=white) |
 | **Analytics**             | ![Google Analytics](https://img.shields.io/badge/Analytics-e37400?logo=googleanalytics&logoColor=white&style=for-the-badge) |
 | **Security & Performance**| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white&style=for-the-badge) |
 
