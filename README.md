@@ -3,7 +3,17 @@
 ## 🧭 Overview  
 **VIRANI** is a luxury real estate website developed using WordPress with advanced MLS integrations. Built for one of Vancouver’s top-tier real estate groups, this website showcases an extensive portfolio of exclusive listings, lifestyle content, and an elevated user experience. The platform was customized using the **Realtyna** MLS plugin and **Elementor**, optimized for speed, SEO, and marketing performance.
 
-![Screenshot](./assets/virani_preview.png)
+### Home Page
+![Screenshot](./assets/1.jpeg)
+
+### Map Search
+![Screenshot](./assets/2.jpeg)
+
+### List Search
+![Screenshot](./assets/3.jpeg)
+
+### Property Details
+![Screenshot](./assets/26.jpeg)
 
 ---
 
